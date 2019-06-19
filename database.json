@@ -1,0 +1,79 @@
+{
+  "todos": [
+    {
+      "task": "clean room",
+      "assigned_to": "Dad",
+      "id": 1
+    },
+    {
+      "task": "clean garage",
+      "assigned_to": "Mom",
+      "id": 2
+    },
+    {
+      "task": "clean bathroom",
+      "assigned_to": "Junior",
+      "id": 3
+    },
+    {
+      "task": "clean rabbit cage",
+      "assigned_to": "Bubba",
+      "id": 4
+    },
+    {
+      "task": "Make shelves for media room",
+      "assigned_to": "Sissie",
+      "id": 5
+    },
+    {
+      "task": "Mow the roof",
+      "assigned_to": "Dingo Jones",
+      "id": 6
+    },
+    {
+      "task": "Hold breath for two minutes",
+      "assigned_to": "Farlo",
+      "id": 7
+    },
+    {
+      "task": "Solve world's suffering",
+      "assigned_to": "Ghandi",
+      "id": 8
+    },
+    {
+      "task": "clean basement",
+      "assigned_to": "Dad",
+      "id": 9
+    },
+    {
+      "task": "clean stables",
+      "assigned_to": "Hoss",
+      "id": 10
+    },
+    {
+      "task": "clean the air",
+      "assigned_to": "EPA",
+      "id": 11
+    },
+    {
+      "task": "clean pool",
+      "assigned_to": "Flipper",
+      "id": 12
+    },
+    {
+      "task": "clean Dad",
+      "assigned_to": "Mom",
+      "id": 13
+    },
+    {
+      "task": "clean fish tank",
+      "assigned_to": "the Cat",
+      "id": 14
+    },
+    {
+      "task": "clean self",
+      "assigned_to": "Junior",
+      "id": 15
+    }
+  ]
+}
